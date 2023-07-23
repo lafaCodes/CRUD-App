@@ -1,0 +1,18 @@
+input[type="submit"],
+button,
+#close {
+    cursor: pointer;
+}
+
+.mytodo-list {
+    width: 500px;
+    margin: 100px auto;
+}
+
+.counter {
+    margin: 10px 0;
+}
+
+#UpdateForm {
+    display: none;
+}
